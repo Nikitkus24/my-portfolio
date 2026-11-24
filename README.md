@@ -12,9 +12,10 @@
 Запуск: `python report_generator_docx.py`
 
 ## Скриншоты
+<img width="1168" height="784" alt="screensword_otchet" src="https://github.com/user-attachments/assets/cc7c83ae-856d-4f05-be4b-5207873d631c" />
+<img width="1536" height="1024" alt="screensdo_posle" src="https://github.com/user-attachments/assets/8a496a0a-82e7-4e8e-9fd0-12d5c065833c" />
 
-![Сортировщик файлов до и после](screenso_posle.jpg)
-![Пример отчета в Word](screenshot_otchet.jpg)
+
 
 ## Установка
 pip install pandas matplotlib openpyxl python-docx pyinstaller
