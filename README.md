@@ -12,8 +12,8 @@
 Запуск: `python report_generator_docx.py`
 
 ## Скриншоты
-![сортировщик](screens/sorter.png)
-![word-отчёт](screens/report.png)
+![Сортировщик файлов до и после](screens/do_posle.jpg)
+![Пример отчета в Word](screens/word_otchet.jpg)
 
 ## Установка
 pip install pandas matplotlib openpyxl python-docx pyinstaller
